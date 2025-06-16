@@ -1,9 +1,10 @@
-
-# Pakistan Location Information System
+# Pakistan Cities and Sub Areas Geocoding
 
 ## Overview
 
-This project aims to create a comprehensive location database for Pakistan, including cities, areas, and addresses with their corresponding geolocation coordinates. The system provides a structured way to access location data without relying on expensive Google Maps API calls, making it ideal for Pakistani applications like OLX, restaurant booking apps, and other location-based services.
+This project provides a comprehensive and **publicly available location dataset for Pakistan**, including cities, sub-areas, and addresses with their corresponding geolocation coordinates. The main goal is to offer a **free alternative** to expensive Google Maps API calls, making it ideal for Pakistani applications like OLX, restaurant delivery apps, real estate platforms, and other location-based services.
+
+By making this data public and open-source, it supports startups, indie developers, and companies who need reliable geocoding data without ongoing costs or access restrictions.
 
 ## Project Structure and Workflow
 
@@ -82,7 +83,7 @@ location_info/
 - **Purpose**: Final data processing and structuring
 - **Components**:
   - `data_merger.py`: Combines all data into the final format
-  - `pakistan_locations.json`: Final structured location database
+  - `pakistan_locations.json`: Final structured location dataset
 - **Process**: Merges all collected data into a well-structured JSON format.
 
 ### 6. Lib Folder (Dart Implementation)
@@ -133,7 +134,7 @@ final clifton = await locationService.findArea('Clifton');
 
 ## Contributing
 
-Contributions to improve the location database are welcome. Please follow these steps:
+Contributions to improve the location dataset are welcome. Please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature.
@@ -147,7 +148,7 @@ The location data is compiled from various reliable sources including:
 - Official government records
 - OpenStreetMap data
 - Verified local sources
-- Photon OpenSearch database
+- Photon OpenSearch dataset
 - Google Maps API (limited usage)
 
 ## License
