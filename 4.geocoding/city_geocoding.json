@@ -1,0 +1,1561 @@
+[
+    {
+        "name": "Abbottabad, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.1436136,
+            73.2132747
+        ]
+    },
+    {
+        "name": "Abdul Hakim, Punjab",
+        "geoPoints": [
+            32.4921725,
+            74.5362361
+        ]
+    },
+    {
+        "name": "Ahmadpur East, Punjab",
+        "geoPoints": [
+            29.1437273,
+            71.2625165
+        ]
+    },
+    {
+        "name": "Ali Masjid, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.0210056,
+            71.2661483
+        ]
+    },
+    {
+        "name": "Alipur, Punjab",
+        "geoPoints": [
+            29.3818018,
+            70.9097965
+        ]
+    },
+    {
+        "name": "Arifwala, Punjab",
+        "geoPoints": [
+            30.2944504,
+            73.0589418
+        ]
+    },
+    {
+        "name": "Astore, Northern Areas",
+        "geoPoints": [
+            35.3566152,
+            74.8569804
+        ]
+    },
+    {
+        "name": "Attock, Punjab",
+        "geoPoints": [
+            33.7695323,
+            72.3610911
+        ]
+    },
+    {
+        "name": "Awaran, Balochistan",
+        "geoPoints": [
+            26.166667,
+            65.5
+        ]
+    },
+    {
+        "name": "Badin, Sindh",
+        "geoPoints": [
+            24.6622996,
+            68.8383651
+        ]
+    },
+    {
+        "name": "Bagh, Azad Kashmir",
+        "geoPoints": [
+            33.9800085,
+            73.7737878
+        ]
+    },
+    {
+        "name": "Bahawalnagar, Punjab",
+        "geoPoints": [
+            29.9935922,
+            73.2527621
+        ]
+    },
+    {
+        "name": "Bahawalpur, Punjab",
+        "geoPoints": [
+            29.394644,
+            71.6638747
+        ]
+    },
+    {
+        "name": "Balakot, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.519289,
+            73.3537154
+        ]
+    },
+    {
+        "name": "Bannu, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            32.9857007,
+            70.6036017
+        ]
+    },
+    {
+        "name": "Barnala(Azad Kashmir), Azad Kashmir",
+        "geoPoints": [
+            32.8701702,
+            74.2473048
+        ]
+    },
+    {
+        "name": "Batagram, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.2193996,
+            71.6260552
+        ]
+    },
+    {
+        "name": "Batkhela, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.6134314,
+            71.9677447
+        ]
+    },
+    {
+        "name": "Bhakkar, Punjab",
+        "geoPoints": [
+            31.6303103,
+            71.0676914
+        ]
+    },
+    {
+        "name": "Bhalwal, Punjab",
+        "geoPoints": [
+            32.2710743,
+            72.896564
+        ]
+    },
+    {
+        "name": "Bhimber, Azad Kashmir",
+        "geoPoints": [
+            32.9740589,
+            74.0738531
+        ]
+    },
+    {
+        "name": "Buner, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.1818504,
+            72.4355807
+        ]
+    },
+    {
+        "name": "Burewala, Punjab",
+        "geoPoints": [
+            30.1588005,
+            72.6796973
+        ]
+    },
+    {
+        "name": "Chaghi, Balochistan",
+        "geoPoints": []
+    },
+    {
+        "name": "Chakwal, Punjab",
+        "geoPoints": [
+            32.932827,
+            72.8629763
+        ]
+    },
+    {
+        "name": "Charsadda, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.1461506,
+            71.7337464
+        ]
+    },
+    {
+        "name": "Chichawatni, Punjab",
+        "geoPoints": [
+            30.5354804,
+            72.6903375
+        ]
+    },
+    {
+        "name": "Chilas, Northern Areas",
+        "geoPoints": [
+            35.4195035,
+            74.0963144
+        ]
+    },
+    {
+        "name": "Chiniot, Punjab",
+        "geoPoints": [
+            31.7309524,
+            72.9834213
+        ]
+    },
+    {
+        "name": "Chishtian Mandi, Punjab",
+        "geoPoints": []
+    },
+    {
+        "name": "Chishtian Sharif, Punjab",
+        "geoPoints": [
+            29.7945611,
+            72.857779
+        ]
+    },
+    {
+        "name": "Chitral, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            35.850889,
+            71.7901897
+        ]
+    },
+    {
+        "name": "Choa Saidan Shah, Punjab",
+        "geoPoints": [
+            32.7207337,
+            72.9856213
+        ]
+    },
+    {
+        "name": "Chunian, Punjab",
+        "geoPoints": [
+            30.9631954,
+            73.9807183
+        ]
+    },
+    {
+        "name": "Dadu, Sindh",
+        "geoPoints": [
+            26.7274836,
+            67.7804974
+        ]
+    },
+    {
+        "name": "Daharki, Sindh",
+        "geoPoints": [
+            28.0454693,
+            69.6876961
+        ]
+    },
+    {
+        "name": "Daska, Punjab",
+        "geoPoints": [
+            32.3323692,
+            74.352516
+        ]
+    },
+    {
+        "name": "Daur, Sindh",
+        "geoPoints": [
+            26.4586262,
+            68.3206588
+        ]
+    },
+    {
+        "name": "Depalpur, Punjab",
+        "geoPoints": [
+            30.6691771,
+            73.6513733
+        ]
+    },
+    {
+        "name": "Dera Ghazi Khan, Punjab",
+        "geoPoints": [
+            30.0321374,
+            70.6401114
+        ]
+    },
+    {
+        "name": "Dera Ismail Khan, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            31.827527,
+            70.9090919
+        ]
+    },
+    {
+        "name": "Dijkot, Punjab",
+        "geoPoints": [
+            31.2166497,
+            72.995266
+        ]
+    },
+    {
+        "name": "Dina, Punjab",
+        "geoPoints": [
+            33.0279237,
+            73.6010809
+        ]
+    },
+    {
+        "name": "Dinga, Punjab",
+        "geoPoints": [
+            32.6303004,
+            73.7174586
+        ]
+    },
+    {
+        "name": "Dobian, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.1581625,
+            72.231564
+        ]
+    },
+    {
+        "name": "Duniya Pur, Punjab",
+        "geoPoints": [
+            29.6261624,
+            71.9174361
+        ]
+    },
+    {
+        "name": "Faisalabad, Punjab",
+        "geoPoints": [
+            31.4220558,
+            73.0923253
+        ]
+    },
+    {
+        "name": "FATA, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.0239093,
+            71.5339902
+        ]
+    },
+    {
+        "name": "Fateh Jang, Punjab",
+        "geoPoints": [
+            33.5671184,
+            72.6423442
+        ]
+    },
+    {
+        "name": "Gaarho, Sindh",
+        "geoPoints": []
+    },
+    {
+        "name": "Gaddani, Balochistan",
+        "geoPoints": [
+            25.0593215,
+            66.6984527
+        ]
+    },
+    {
+        "name": "Gadoon, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.1827475,
+            72.6794001
+        ]
+    },
+    {
+        "name": "Galyat, Khyber Pakhtunkhwa",
+        "geoPoints": []
+    },
+    {
+        "name": "Gambat, Sindh",
+        "geoPoints": [
+            27.3471662,
+            68.5343887
+        ]
+    },
+    {
+        "name": "Ghakhar, Punjab",
+        "geoPoints": [
+            32.3039532,
+            74.1482177
+        ]
+    },
+    {
+        "name": "Ghanche, Northern Areas",
+        "geoPoints": [
+            35.2078282,
+            76.4649367
+        ]
+    },
+    {
+        "name": "Gharo, Sindh",
+        "geoPoints": [
+            24.5439195,
+            68.7332749
+        ]
+    },
+    {
+        "name": "Ghizer, Northern Areas",
+        "geoPoints": [
+            36.3823847,
+            73.8188899
+        ]
+    },
+    {
+        "name": "Ghotki, Sindh",
+        "geoPoints": [
+            27.9939917,
+            69.3134549
+        ]
+    },
+    {
+        "name": "Gilgit, Northern Areas",
+        "geoPoints": [
+            35.9208102,
+            74.314044
+        ]
+    },
+    {
+        "name": "Gojra, Punjab",
+        "geoPoints": [
+            31.1482371,
+            72.6859082
+        ]
+    },
+    {
+        "name": "Gujar Khan, Punjab",
+        "geoPoints": [
+            33.2543205,
+            73.3065712
+        ]
+    },
+    {
+        "name": "Gujranwala, Punjab",
+        "geoPoints": [
+            32.1525312,
+            74.1933745
+        ]
+    },
+    {
+        "name": "Gujrat, Punjab",
+        "geoPoints": [
+            32.5686782,
+            74.071481
+        ]
+    },
+    {
+        "name": "Gwadar, Balochistan",
+        "geoPoints": [
+            25.1925141,
+            62.3271924
+        ]
+    },
+    {
+        "name": "Hafizabad, Punjab",
+        "geoPoints": [
+            32.0719134,
+            73.6884523
+        ]
+    },
+    {
+        "name": "Hala, Sindh",
+        "geoPoints": [
+            25.8947116,
+            68.5832875
+        ]
+    },
+    {
+        "name": "Hangu, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            33.527996,
+            71.0575407
+        ]
+    },
+    {
+        "name": "Harappa, Punjab",
+        "geoPoints": [
+            30.6330564,
+            72.8701682
+        ]
+    },
+    {
+        "name": "Haripur, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            33.9944889,
+            72.9331737
+        ]
+    },
+    {
+        "name": "Haroonabad, Punjab",
+        "geoPoints": [
+            29.6104977,
+            73.1388889
+        ]
+    },
+    {
+        "name": "Hasan Abdal, Punjab",
+        "geoPoints": [
+            33.8218473,
+            72.6873895
+        ]
+    },
+    {
+        "name": "Hasilpur, Punjab",
+        "geoPoints": [
+            29.6889811,
+            72.5525446
+        ]
+    },
+    {
+        "name": "Haveli lakha, Punjab",
+        "geoPoints": [
+            30.450444,
+            73.6974251
+        ]
+    },
+    {
+        "name": "Hazro, Punjab",
+        "geoPoints": [
+            33.9097697,
+            72.488679
+        ]
+    },
+    {
+        "name": "Hub Chowki, Balochistan",
+        "geoPoints": []
+    },
+    {
+        "name": "Hujra Shah Muqeem, Punjab",
+        "geoPoints": [
+            30.7393828,
+            73.8245631
+        ]
+    },
+    {
+        "name": "Hunza, Northern Areas",
+        "geoPoints": [
+            36.5455115,
+            75.2069647
+        ]
+    },
+    {
+        "name": "Hyderabad, Sindh",
+        "geoPoints": [
+            25.3868287,
+            68.3714971
+        ]
+    },
+    {
+        "name": "Islamabad, Islamabad Capital Territory",
+        "geoPoints": [
+            33.6938118,
+            73.0651511
+        ]
+    },
+    {
+        "name": "Jacobabad, Sindh",
+        "geoPoints": [
+            28.2813094,
+            68.4364361
+        ]
+    },
+    {
+        "name": "Jahanian, Punjab",
+        "geoPoints": [
+            30.038018,
+            71.8184519
+        ]
+    },
+    {
+        "name": "Jalal Pur Jatta, Punjab",
+        "geoPoints": []
+    },
+    {
+        "name": "Jampur, Punjab",
+        "geoPoints": [
+            29.6382798,
+            70.5775342
+        ]
+    },
+    {
+        "name": "Jamshoro, Sindh",
+        "geoPoints": [
+            25.4152977,
+            68.3506796
+        ]
+    },
+    {
+        "name": "Jandola, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            32.3339941,
+            70.1219562
+        ]
+    },
+    {
+        "name": "Jatoi, Punjab",
+        "geoPoints": [
+            29.5105224,
+            70.8459377
+        ]
+    },
+    {
+        "name": "Jauharabad, Punjab",
+        "geoPoints": [
+            32.2864067,
+            72.2878819
+        ]
+    },
+    {
+        "name": "Jhang, Punjab",
+        "geoPoints": [
+            31.2728805,
+            72.3103071
+        ]
+    },
+    {
+        "name": "Jhelum, Punjab",
+        "geoPoints": [
+            32.9247256,
+            73.719388
+        ]
+    },
+    {
+        "name": "Kabirwala, Punjab",
+        "geoPoints": [
+            30.4033711,
+            71.8692824
+        ]
+    },
+    {
+        "name": "Kaghan, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.7806262,
+            73.5241551
+        ]
+    },
+    {
+        "name": "Kahror Pakka, Punjab",
+        "geoPoints": [
+            29.6241693,
+            71.9168037
+        ]
+    },
+    {
+        "name": "Kalat, Balochistan",
+        "geoPoints": [
+            30.2077938,
+            66.9974249
+        ]
+    },
+    {
+        "name": "Kamalia, Punjab",
+        "geoPoints": [
+            30.7269883,
+            72.6450218
+        ]
+    },
+    {
+        "name": "Kamoke, Punjab",
+        "geoPoints": [
+            32.4132375,
+            74.1626371
+        ]
+    },
+    {
+        "name": "Kandiaro, Sindh",
+        "geoPoints": [
+            27.0594568,
+            68.2103517
+        ]
+    },
+    {
+        "name": "Karachi, Sindh",
+        "geoPoints": [
+            24.8546842,
+            67.0207055
+        ]
+    },
+    {
+        "name": "Karak, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            33.1160464,
+            71.0950863
+        ]
+    },
+    {
+        "name": "Kasur, Punjab",
+        "geoPoints": [
+            31.1175143,
+            74.4478314
+        ]
+    },
+    {
+        "name": "Khairpur, Sindh",
+        "geoPoints": [
+            27.5204873,
+            68.7383149
+        ]
+    },
+    {
+        "name": "Khanewal, Punjab",
+        "geoPoints": [
+            30.3022528,
+            71.9278916
+        ]
+    },
+    {
+        "name": "Khanpur, Punjab",
+        "geoPoints": [
+            28.6477403,
+            70.656008
+        ]
+    },
+    {
+        "name": "Khaplu, Northern Areas",
+        "geoPoints": [
+            35.1634994,
+            76.3441519
+        ]
+    },
+    {
+        "name": "Kharian, Punjab",
+        "geoPoints": [
+            32.8100237,
+            73.8663245
+        ]
+    },
+    {
+        "name": "Khipro, Sindh",
+        "geoPoints": []
+    },
+    {
+        "name": "Khushab, Punjab",
+        "geoPoints": [
+            32.2903666,
+            72.3515792
+        ]
+    },
+    {
+        "name": "Khuzdar, Balochistan",
+        "geoPoints": [
+            27.166667,
+            66.333333
+        ]
+    },
+    {
+        "name": "Kohat, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            33.5967144,
+            71.4399944
+        ]
+    },
+    {
+        "name": "Kohistan, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            35.4319364,
+            73.2430308
+        ]
+    },
+    {
+        "name": "Kot Addu, Punjab",
+        "geoPoints": [
+            30.4692602,
+            70.9678776
+        ]
+    },
+    {
+        "name": "Kotli, Azad Kashmir",
+        "geoPoints": [
+            33.4649392,
+            73.903354
+        ]
+    },
+    {
+        "name": "Kotri, Sindh",
+        "geoPoints": [
+            25.366818,
+            68.2982586
+        ]
+    },
+    {
+        "name": "Lahore, Punjab",
+        "geoPoints": [
+            31.5656822,
+            74.3141829
+        ]
+    },
+    {
+        "name": "Laki Marwat, Khyber Pakhtunkhwa",
+        "geoPoints": []
+    },
+    {
+        "name": "Lala Musa, Punjab",
+        "geoPoints": [
+            32.699529,
+            73.9576582
+        ]
+    },
+    {
+        "name": "Landi Kotal, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.0937813,
+            71.1459107
+        ]
+    },
+    {
+        "name": "Larkana, Sindh",
+        "geoPoints": [
+            27.5497226,
+            68.2099385
+        ]
+    },
+    {
+        "name": "Lasbela, Balochistan",
+        "geoPoints": [
+            25.8466431,
+            66.630018
+        ]
+    },
+    {
+        "name": "Layyah, Punjab",
+        "geoPoints": [
+            30.964868,
+            70.9455995
+        ]
+    },
+    {
+        "name": "Liaquatpur, Punjab",
+        "geoPoints": [
+            28.9349288,
+            70.9515927
+        ]
+    },
+    {
+        "name": "Lodhran, Punjab",
+        "geoPoints": [
+            29.5390395,
+            71.6344196
+        ]
+    },
+    {
+        "name": "Loralai, Balochistan",
+        "geoPoints": [
+            30.366865,
+            68.6000654
+        ]
+    },
+    {
+        "name": "Lower Dir, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.8450852,
+            71.8795222
+        ]
+    },
+    {
+        "name": "Mailsi, Punjab",
+        "geoPoints": [
+            29.7989371,
+            72.1782366
+        ]
+    },
+    {
+        "name": "Makran, Balochistan",
+        "geoPoints": [
+            26.0,
+            63.5
+        ]
+    },
+    {
+        "name": "Malakand, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.5730269,
+            71.9318872
+        ]
+    },
+    {
+        "name": "Malal, Sindh",
+        "geoPoints": []
+    },
+    {
+        "name": "Mandi Bahauddin, Punjab",
+        "geoPoints": [
+            32.5846351,
+            73.4914169
+        ]
+    },
+    {
+        "name": "Mangla, Punjab",
+        "geoPoints": [
+            33.050961,
+            73.6338041
+        ]
+    },
+    {
+        "name": "Mansehra, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.3286855,
+            73.1993125
+        ]
+    },
+    {
+        "name": "Mardan, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.1937969,
+            72.0451467
+        ]
+    },
+    {
+        "name": "Matiari, Sindh",
+        "geoPoints": [
+            25.5933442,
+            68.4421197
+        ]
+    },
+    {
+        "name": "Matli, Sindh",
+        "geoPoints": []
+    },
+    {
+        "name": "Mehrabpur, Sindh",
+        "geoPoints": [
+            27.0991066,
+            68.4207007
+        ]
+    },
+    {
+        "name": "Mian Chunnu, Punjab",
+        "geoPoints": []
+    },
+    {
+        "name": "Mianwali, Punjab",
+        "geoPoints": [
+            32.5705533,
+            71.5239763
+        ]
+    },
+    {
+        "name": "Mingaora, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.7725375,
+            72.3607712
+        ]
+    },
+    {
+        "name": "Miram Shah, Khyber Pakhtunkhwa",
+        "geoPoints": []
+    },
+    {
+        "name": "Mirpur, Azad Kashmir",
+        "geoPoints": [
+            33.1486351,
+            73.7482102
+        ]
+    },
+    {
+        "name": "Mirpur Khas, Sindh",
+        "geoPoints": [
+            25.5252244,
+            69.0172232
+        ]
+    },
+    {
+        "name": "Mirpur Sakro, Sindh",
+        "geoPoints": [
+            24.7432121,
+            67.5799483
+        ]
+    },
+    {
+        "name": "Mitha Tiwana, Punjab",
+        "geoPoints": [
+            32.2415186,
+            72.1090666
+        ]
+    },
+    {
+        "name": "Moro, Sindh",
+        "geoPoints": [
+            26.67486,
+            67.9867928
+        ]
+    },
+    {
+        "name": "Multan, Punjab",
+        "geoPoints": [
+            30.197838,
+            71.4719683
+        ]
+    },
+    {
+        "name": "Muridike, Punjab",
+        "geoPoints": []
+    },
+    {
+        "name": "Murree, Punjab",
+        "geoPoints": [
+            33.9056829,
+            73.392674
+        ]
+    },
+    {
+        "name": "Muzaffarabad, Azad Kashmir",
+        "geoPoints": [
+            34.3734751,
+            73.4702407
+        ]
+    },
+    {
+        "name": "Muzaffargarh, Punjab",
+        "geoPoints": [
+            30.0743097,
+            71.1906224
+        ]
+    },
+    {
+        "name": "Nankana Sahib, Punjab",
+        "geoPoints": [
+            31.4548712,
+            73.7090967
+        ]
+    },
+    {
+        "name": "Naran, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.9045456,
+            73.6469649
+        ]
+    },
+    {
+        "name": "Narowal, Punjab",
+        "geoPoints": [
+            32.1009752,
+            74.872238
+        ]
+    },
+    {
+        "name": "Nasar Ullah Khan Town, Punjab",
+        "geoPoints": []
+    },
+    {
+        "name": "Nasirabad, Balochistan",
+        "geoPoints": [
+            28.9416572,
+            67.6711836
+        ]
+    },
+    {
+        "name": "Naushahro Feroze, Sindh",
+        "geoPoints": [
+            26.8561567,
+            68.120881
+        ]
+    },
+    {
+        "name": "Nawabshah, Sindh",
+        "geoPoints": [
+            26.2459383,
+            68.4120801
+        ]
+    },
+    {
+        "name": "Neelum, Azad Kashmir",
+        "geoPoints": [
+            34.6804889,
+            73.965783
+        ]
+    },
+    {
+        "name": "Nowshera, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.0155606,
+            71.981283
+        ]
+    },
+    {
+        "name": "Okara, Punjab",
+        "geoPoints": [
+            30.8091281,
+            73.4493301
+        ]
+    },
+    {
+        "name": "Pakpattan, Punjab",
+        "geoPoints": [
+            30.3422503,
+            73.3891875
+        ]
+    },
+    {
+        "name": "Pallandri, Azad Kashmir",
+        "geoPoints": [
+            33.7181112,
+            73.6882861
+        ]
+    },
+    {
+        "name": "Parachinar, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            33.8967938,
+            70.1000564
+        ]
+    },
+    {
+        "name": "Pasrur, Punjab",
+        "geoPoints": [
+            32.2638734,
+            74.662699
+        ]
+    },
+    {
+        "name": "Pattoki, Punjab",
+        "geoPoints": [
+            31.0210614,
+            73.852906
+        ]
+    },
+    {
+        "name": "Peshawar, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.0123846,
+            71.5787458
+        ]
+    },
+    {
+        "name": "Pind Dadan Khan, Punjab",
+        "geoPoints": [
+            32.5939485,
+            73.0459834
+        ]
+    },
+    {
+        "name": "Pindi Bhattian, Punjab",
+        "geoPoints": [
+            31.9000019,
+            73.2713766
+        ]
+    },
+    {
+        "name": "Pirmahal, Punjab",
+        "geoPoints": [
+            30.7654576,
+            72.4344064
+        ]
+    },
+    {
+        "name": "Poonch, Azad Kashmir",
+        "geoPoints": [
+            33.7550374,
+            73.9530286
+        ]
+    },
+    {
+        "name": "Qazi Ahmed, Sindh",
+        "geoPoints": [
+            26.3070923,
+            68.096797
+        ]
+    },
+    {
+        "name": "Quetta, Balochistan",
+        "geoPoints": [
+            30.1916569,
+            67.0006542
+        ]
+    },
+    {
+        "name": "Rahimyar Khan, Punjab",
+        "geoPoints": [
+            28.417607,
+            70.3036512
+        ]
+    },
+    {
+        "name": "Raiwind, Punjab",
+        "geoPoints": [
+            31.2443583,
+            74.2138126
+        ]
+    },
+    {
+        "name": "Rajana, Punjab",
+        "geoPoints": [
+            30.8551198,
+            72.5501802
+        ]
+    },
+    {
+        "name": "Rajanpur, Punjab",
+        "geoPoints": [
+            29.1002249,
+            70.3377049
+        ]
+    },
+    {
+        "name": "Ratodero, Sindh",
+        "geoPoints": [
+            27.8007239,
+            68.2884248
+        ]
+    },
+    {
+        "name": "Ratwal, Punjab",
+        "geoPoints": [
+            32.6741395,
+            73.3702779
+        ]
+    },
+    {
+        "name": "Rawalakot, Azad Kashmir",
+        "geoPoints": [
+            33.8572284,
+            73.7605747
+        ]
+    },
+    {
+        "name": "Rawalpindi, Punjab",
+        "geoPoints": [
+            33.5914237,
+            73.0535122
+        ]
+    },
+    {
+        "name": "Renala Khurd, Punjab",
+        "geoPoints": [
+            30.8782508,
+            73.5998771
+        ]
+    },
+    {
+        "name": "Rohri, Sindh",
+        "geoPoints": [
+            27.6858004,
+            68.8977595
+        ]
+    },
+    {
+        "name": "Sadiqabad, Punjab",
+        "geoPoints": [
+            28.3086664,
+            70.1283004
+        ]
+    },
+    {
+        "name": "Sahiwal, Punjab",
+        "geoPoints": [
+            30.6715098,
+            73.1110572
+        ]
+    },
+    {
+        "name": "Sakrand, Sindh",
+        "geoPoints": [
+            26.1568824,
+            68.2521853
+        ]
+    },
+    {
+        "name": "Samundri, Punjab",
+        "geoPoints": [
+            31.065143,
+            72.9588416
+        ]
+    },
+    {
+        "name": "Sanghar, Sindh",
+        "geoPoints": [
+            26.0470447,
+            68.9492402
+        ]
+    },
+    {
+        "name": "Sangla Hill, Punjab",
+        "geoPoints": [
+            31.7169296,
+            73.3760623
+        ]
+    },
+    {
+        "name": "Sarai Alamgir, Punjab",
+        "geoPoints": [
+            32.9019199,
+            73.7535419
+        ]
+    },
+    {
+        "name": "Sargodha, Punjab",
+        "geoPoints": [
+            32.0836514,
+            72.676461
+        ]
+    },
+    {
+        "name": "Sehwan Sharif, Sindh",
+        "geoPoints": [
+            26.4255959,
+            67.8625638
+        ]
+    },
+    {
+        "name": "Shabqadar, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.2146534,
+            71.5559253
+        ]
+    },
+    {
+        "name": "Shahdadpur, Sindh",
+        "geoPoints": [
+            25.9217599,
+            68.6223211
+        ]
+    },
+    {
+        "name": "Shahkot, Punjab",
+        "geoPoints": [
+            31.5780991,
+            73.4766278
+        ]
+    },
+    {
+        "name": "Shahpur Chakar, Sindh",
+        "geoPoints": [
+            26.1400282,
+            68.6209129
+        ]
+    },
+    {
+        "name": "Shakargarh, Punjab",
+        "geoPoints": [
+            32.2631481,
+            75.1604548
+        ]
+    },
+    {
+        "name": "Shangla, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.956944,
+            72.848056
+        ]
+    },
+    {
+        "name": "Shehr Sultan, Punjab",
+        "geoPoints": [
+            29.5748052,
+            71.0222905
+        ]
+    },
+    {
+        "name": "SheikhÃ¼pura, Punjab",
+        "geoPoints": []
+    },
+    {
+        "name": "Sher Garh, Punjab",
+        "geoPoints": [
+            32.7224865,
+            74.0375009
+        ]
+    },
+    {
+        "name": "Shikarpur, Sindh",
+        "geoPoints": [
+            27.9577983,
+            68.6465513
+        ]
+    },
+    {
+        "name": "Shorkot, Punjab",
+        "geoPoints": [
+            30.8349067,
+            72.0764093
+        ]
+    },
+    {
+        "name": "Sialkot, Punjab",
+        "geoPoints": [
+            32.4935378,
+            74.5411575
+        ]
+    },
+    {
+        "name": "Sibi, Balochistan",
+        "geoPoints": [
+            29.5476446,
+            67.8701026
+        ]
+    },
+    {
+        "name": "Skardu, Northern Areas",
+        "geoPoints": [
+            35.2863724,
+            75.6400746
+        ]
+    },
+    {
+        "name": "Sudhnoti, Azad Kashmir",
+        "geoPoints": []
+    },
+    {
+        "name": "Sujawal, Sindh",
+        "geoPoints": [
+            27.9618248,
+            68.0521873
+        ]
+    },
+    {
+        "name": "Sukkur, Sindh",
+        "geoPoints": [
+            27.7004292,
+            68.8664623
+        ]
+    },
+    {
+        "name": "Swabi, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.1262144,
+            72.4743164
+        ]
+    },
+    {
+        "name": "Swat, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.3192277,
+            71.5902939
+        ]
+    },
+    {
+        "name": "Talagang, Punjab",
+        "geoPoints": [
+            32.9235108,
+            72.4139769
+        ]
+    },
+    {
+        "name": "Tando Adam, Sindh",
+        "geoPoints": [
+            25.7528964,
+            68.505243
+        ]
+    },
+    {
+        "name": "Tando Allahyar, Sindh",
+        "geoPoints": [
+            25.4696214,
+            68.7255933
+        ]
+    },
+    {
+        "name": "Tando Bago, Sindh",
+        "geoPoints": []
+    },
+    {
+        "name": "Tando Muhammad Khan, Sindh",
+        "geoPoints": [
+            25.1226473,
+            68.5299328
+        ]
+    },
+    {
+        "name": "Tank, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            32.2096916,
+            70.3881146
+        ]
+    },
+    {
+        "name": "Taxila, Punjab",
+        "geoPoints": [
+            33.7474551,
+            72.8073364
+        ]
+    },
+    {
+        "name": "Tharparkar, Sindh",
+        "geoPoints": [
+            25.684084,
+            69.0778399
+        ]
+    },
+    {
+        "name": "Thatta, Sindh",
+        "geoPoints": [
+            24.8552533,
+            67.212909
+        ]
+    },
+    {
+        "name": "Toba Tek singh, Punjab",
+        "geoPoints": [
+            30.9777056,
+            72.4860799
+        ]
+    },
+    {
+        "name": "Torkham, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            34.120723,
+            71.1016176
+        ]
+    },
+    {
+        "name": "Turbat, Balochistan",
+        "geoPoints": [
+            26.0699013,
+            62.6751688
+        ]
+    },
+    {
+        "name": "Umerkot, Sindh",
+        "geoPoints": [
+            25.3637176,
+            69.7339569
+        ]
+    },
+    {
+        "name": "Upper Dir, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            35.4050022,
+            72.1144401
+        ]
+    },
+    {
+        "name": "Vehari, Punjab",
+        "geoPoints": [
+            30.0480417,
+            72.3563519
+        ]
+    },
+    {
+        "name": "Wah, Punjab",
+        "geoPoints": [
+            33.7863064,
+            72.7267564
+        ]
+    },
+    {
+        "name": "Wana, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            32.3073624,
+            69.5907178
+        ]
+    },
+    {
+        "name": "Wazirabad, Punjab",
+        "geoPoints": [
+            32.4417427,
+            74.1182117
+        ]
+    },
+    {
+        "name": "Waziristan, Khyber Pakhtunkhwa",
+        "geoPoints": [
+            32.9528061,
+            69.9417203
+        ]
+    },
+    {
+        "name": "Yazman, Punjab",
+        "geoPoints": [
+            29.1242299,
+            71.7483177
+        ]
+    },
+    {
+        "name": "Zhob, Balochistan",
+        "geoPoints": [
+            31.3578731,
+            69.4640204
+        ]
+    }
+]

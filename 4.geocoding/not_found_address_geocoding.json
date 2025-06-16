@@ -1,0 +1,821 @@
+[
+    {
+        "name": "Gulshan Bashir Housing Society, Haripur, Khyber Pakhtunkhwa",
+        "geopoint": [
+            33.99465,
+            72.91062
+        ]
+    },
+    {
+        "name": "Noor Ul Hadi Koruna, Swabi, Khyber Pakhtunkhwa",
+        "geopoint": [
+            34.18483,
+            72.21195
+        ]
+    },
+    {
+        "name": "TEST Locality, Alipur, Punjab",
+        "geopoint": [
+            30.69741,
+            76.30511
+        ]
+    },
+    {
+        "name": "Piaewt Enclave, Attock, Punjab",
+        "geopoint": [
+            33.49645,
+            72.86502
+        ]
+    },
+    {
+        "name": "Al Momin Garden Housing City, Bahawalpur, Punjab",
+        "geopoint": [
+            29.37587,
+            71.73926
+        ]
+    },
+    {
+        "name": "Al Noor Maqbool Smart City, Bahawalpur, Punjab",
+        "geopoint": [
+            29.36897,
+            71.74738
+        ]
+    },
+    {
+        "name": "Al-Rahim Garden Housing City, Bahawalpur, Punjab",
+        "geopoint": [
+            29.33861,
+            71.68625
+        ]
+    },
+    {
+        "name": "Government Servants Housing Scheme, Bahawalpur, Punjab",
+        "geopoint": [
+            29.38626,
+            71.64434
+        ]
+    },
+    {
+        "name": "Satluj Valley Housing Scheme, Bahawalpur, Punjab",
+        "geopoint": [
+            29.4252,
+            71.64991
+        ]
+    },
+    {
+        "name": "Nomades Huts, Burewala, Punjab",
+        "geopoint": [
+            30.1572,
+            72.68653
+        ]
+    },
+    {
+        "name": "Yaqoob Abad, Burewala, Punjab",
+        "geopoint": [
+            30.17313,
+            72.68866
+        ]
+    },
+    {
+        "name": "Darvesh Pura, Chichawatni, Punjab",
+        "geopoint": [
+            30.54044,
+            72.69771
+        ]
+    },
+    {
+        "name": "Gulshan Hurmat, Chichawatni, Punjab",
+        "geopoint": [
+            30.52754,
+            72.67092
+        ]
+    },
+    {
+        "name": "Oddh Colony, Chichawatni, Punjab",
+        "geopoint": [
+            30.53064,
+            72.67831
+        ]
+    },
+    {
+        "name": "Dream Land Housing Society, Chishtian Mandi, Punjab",
+        "geopoint": [
+            29.78509,
+            72.87576
+        ]
+    },
+    {
+        "name": "Baab Ul Jannah Housing Society, Faisalabad, Punjab",
+        "geopoint": [
+            31.48136,
+            73.04914
+        ]
+    },
+    {
+        "name": "Chak 65 JB Janubi Narwala, Faisalabad, Punjab",
+        "geopoint": [
+            31.38888,
+            72.94237
+        ]
+    },
+    {
+        "name": "Qwell Meadows, Kharian, Punjab",
+        "geopoint": [
+            32.81426,
+            73.88307
+        ]
+    },
+    {
+        "name": "Green Valley Housing Scheme, Kot Addu, Punjab",
+        "geopoint": [
+            30.44894,
+            70.96124
+        ]
+    },
+    {
+        "name": "Ward Number 14, Kot Addu, Punjab",
+        "geopoint": [
+            30.45441,
+            70.97089
+        ]
+    },
+    {
+        "name": "Al Makkah Colony Welfare Society, Lahore, Punjab",
+        "geopoint": [
+            31.51144,
+            74.26625
+        ]
+    },
+    {
+        "name": "Mia Fazal Deen Welfare Society, Lahore, Punjab",
+        "geopoint": [
+            31.51209,
+            74.26031
+        ]
+    },
+    {
+        "name": "Wapda Finance Officers Subsistence Farm Homes Cooperative Society, Lahore, Punjab",
+        "geopoint": [
+            31.52037,
+            74.35875
+        ]
+    },
+    {
+        "name": "Lateef Bagh Housing Scheme, Mian Chunnu, Punjab",
+        "geopoint": [
+            30.43333,
+            72.36935
+        ]
+    },
+    {
+        "name": "Air Force Officers Housing Scheme, Multan, Punjab",
+        "geopoint": [
+            30.16051,
+            71.41715
+        ]
+    },
+    {
+        "name": "Infinite View Resorts & Villas, Murree, Punjab",
+        "geopoint": [
+            33.89107,
+            73.4003
+        ]
+    },
+    {
+        "name": "Afshan Block, Okara, Punjab",
+        "geopoint": [
+            30.81737,
+            73.45798
+        ]
+    },
+    {
+        "name": "Khayaban-e-Yousaf Housing Scheme, Pattoki, Punjab",
+        "geopoint": [
+            31.02418,
+            73.84733
+        ]
+    },
+    {
+        "name": "UK Garden, Pirmahal, Punjab",
+        "geopoint": [
+            30.7532,
+            72.43358
+        ]
+    },
+    {
+        "name": "Mouza Abdul Wahid Khumbra, Rahimyar Khan, Punjab",
+        "geopoint": [
+            28.42116,
+            70.29887
+        ]
+    },
+    {
+        "name": "Zeenat Garden Housing Society, Rahimyar Khan, Punjab",
+        "geopoint": [
+            28.42116,
+            70.29887
+        ]
+    },
+    {
+        "name": "Clifton Township, Rawalpindi, Punjab",
+        "geopoint": [
+            33.52716,
+            73.06095
+        ]
+    },
+    {
+        "name": "Supreme Court Employees Housing Society, Rawalpindi, Punjab",
+        "geopoint": [
+            33.60356,
+            73.07908
+        ]
+    },
+    {
+        "name": "Ahmadpur Lumma, Sadiqabad, Punjab",
+        "geopoint": [
+            28.31585,
+            70.05329
+        ]
+    },
+    {
+        "name": "Chief Residencia, Sadiqabad, Punjab",
+        "geopoint": [
+            28.2991,
+            70.13999
+        ]
+    },
+    {
+        "name": "Al Razzaq Royals Housing Scheme, Sahiwal, Punjab",
+        "geopoint": [
+            30.70184,
+            73.08265
+        ]
+    },
+    {
+        "name": "Fawad Meadows, Sahiwal, Punjab",
+        "geopoint": [
+            30.6682,
+            73.11136
+        ]
+    },
+    {
+        "name": "Canal Palms Luxury Housing Scheme, Sargodha, Punjab",
+        "geopoint": [
+            32.09841,
+            72.72022
+        ]
+    },
+    {
+        "name": "Maple Residencies, Sargodha, Punjab",
+        "geopoint": [
+            32.0468,
+            72.70038
+        ]
+    },
+    {
+        "name": "Al-Azeem Green Villas, SheikhÃ¼pura, Punjab",
+        "geopoint": [
+            31.14713,
+            75.34122
+        ]
+    },
+    {
+        "name": "Khayaban-e-Rehman Housing Scheme, Sialkot, Punjab",
+        "geopoint": [
+            32.49255,
+            74.53115
+        ]
+    },
+    {
+        "name": "Punjab Government Servants Housing Scheme, Sialkot, Punjab",
+        "geopoint": [
+            32.49255,
+            74.53115
+        ]
+    },
+    {
+        "name": "Aurora - House Of Wisdom & Residences, Wah, Punjab",
+        "geopoint": [
+            33.78318,
+            72.72308
+        ]
+    },
+    {
+        "name": "Others, Astore, Northern Areas",
+        "geopoint": [
+            35.35697,
+            74.86241
+        ]
+    },
+    {
+        "name": "Others, Gilgit, Northern Areas",
+        "geopoint": [
+            35.92019,
+            74.30801
+        ]
+    },
+    {
+        "name": "Bar Budalas Road, Hunza, Northern Areas",
+        "geopoint": [
+            36.31846,
+            74.29673
+        ]
+    },
+    {
+        "name": "Bar Das Chalt Nagar, Hunza, Northern Areas",
+        "geopoint": [
+            36.32812,
+            74.29129
+        ]
+    },
+    {
+        "name": "Bar Khass Chalt Nagar, Hunza, Northern Areas",
+        "geopoint": [
+            36.38017,
+            74.28542
+        ]
+    },
+    {
+        "name": "Bharpoo Hopar Nagar, Hunza, Northern Areas",
+        "geopoint": [
+            36.15165,
+            74.88288
+        ]
+    },
+    {
+        "name": "Budalas Chalt Nagar, Hunza, Northern Areas",
+        "geopoint": [
+            36.27962,
+            74.33382
+        ]
+    },
+    {
+        "name": "Dorkhan, Hunza, Northern Areas",
+        "geopoint": [
+            36.31317,
+            74.63199
+        ]
+    },
+    {
+        "name": "Ghulmet Nagar, Hunza, Northern Areas",
+        "geopoint": [
+            36.24318,
+            74.47747
+        ]
+    },
+    {
+        "name": "Gulmit, Hunza, Northern Areas",
+        "geopoint": [
+            36.38905,
+            74.86515
+        ]
+    },
+    {
+        "name": "Haider Abad, Hunza, Northern Areas",
+        "geopoint": [
+            36.31431,
+            74.63821
+        ]
+    },
+    {
+        "name": "Humarri Khay, Hunza, Northern Areas",
+        "geopoint": [
+            36.27524,
+            74.71267
+        ]
+    },
+    {
+        "name": "Jamal Abad, Hunza, Northern Areas",
+        "geopoint": [
+            36.61791,
+            74.86528
+        ]
+    },
+    {
+        "name": "Jator Khan, Hunza, Northern Areas",
+        "geopoint": [
+            36.41228,
+            74.54633
+        ]
+    },
+    {
+        "name": "Miachar Nagar, Hunza, Northern Areas",
+        "geopoint": [
+            36.26401,
+            74.57434
+        ]
+    },
+    {
+        "name": "Minapin Nagar, Hunza, Northern Areas",
+        "geopoint": [
+            36.25092,
+            74.53608
+        ]
+    },
+    {
+        "name": "Nagar - Hisper - Hopar Road, Hunza, Northern Areas",
+        "geopoint": [
+            36.17462,
+            74.98955
+        ]
+    },
+    {
+        "name": "Others, Hunza, Northern Areas",
+        "geopoint": [
+            36.41228,
+            74.54633
+        ]
+    },
+    {
+        "name": "Phakkar Nagar Road, Hunza, Northern Areas",
+        "geopoint": [
+            36.41228,
+            74.54633
+        ]
+    },
+    {
+        "name": "Sarat, Hunza, Northern Areas",
+        "geopoint": [
+            36.30902,
+            74.79295
+        ]
+    },
+    {
+        "name": "Sumayar Nagar, Hunza, Northern Areas",
+        "geopoint": [
+            36.30225,
+            74.65468
+        ]
+    },
+    {
+        "name": "Toshat Phakkar Road, Hunza, Northern Areas",
+        "geopoint": [
+            36.41228,
+            74.54633
+        ]
+    },
+    {
+        "name": "Alchori, Skardu, Northern Areas",
+        "geopoint": [
+            35.49692,
+            75.67277
+        ]
+    },
+    {
+        "name": "Askoley, Skardu, Northern Areas",
+        "geopoint": [
+            35.32471,
+            75.55096
+        ]
+    },
+    {
+        "name": "Gangs Singy, Skardu, Northern Areas",
+        "geopoint": [
+            35.32471,
+            75.55096
+        ]
+    },
+    {
+        "name": "Hashupi, Skardu, Northern Areas",
+        "geopoint": [
+            35.50896,
+            75.67608
+        ]
+    },
+    {
+        "name": "Hota Burq, Skardu, Northern Areas",
+        "geopoint": [
+            35.32471,
+            75.55096
+        ]
+    },
+    {
+        "name": "Hoto, Skardu, Northern Areas",
+        "geopoint": [
+            35.37436,
+            75.49564
+        ]
+    },
+    {
+        "name": "Manthal, Skardu, Northern Areas",
+        "geopoint": [
+            35.26546,
+            75.63317
+        ]
+    },
+    {
+        "name": "Na Guli Spong Road, Skardu, Northern Areas",
+        "geopoint": [
+            35.29494,
+            75.63147
+        ]
+    },
+    {
+        "name": "Others, Skardu, Northern Areas",
+        "geopoint": [
+            35.32471,
+            75.55096
+        ]
+    },
+    {
+        "name": "Thumgo Shigar, Skardu, Northern Areas",
+        "geopoint": [
+            35.47655,
+            75.69644
+        ]
+    },
+    {
+        "name": "Balochistan Employees Cooperative Housing Society (BECHS), Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "GDA Housing Scheme No. 5, Gwadar, Balochistan",
+        "geopoint": [
+            25.14719,
+            62.31959
+        ]
+    },
+    {
+        "name": "GDA Industrial Scheme 3, Gwadar, Balochistan",
+        "geopoint": [
+            25.14719,
+            62.31959
+        ]
+    },
+    {
+        "name": "Golden Palms, Gwadar, Balochistan",
+        "geopoint": [
+            25.2016,
+            62.29701
+        ]
+    },
+    {
+        "name": "Highway Castles Farm Housing Society, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Janubi Mouza Ankra, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Marine Dr, Gwadar, Balochistan",
+        "geopoint": [
+            25.20644,
+            62.26715
+        ]
+    },
+    {
+        "name": "Mouza Ankara Janobi, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Ankara Shomali, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Bandri, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Chukain, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Churbander, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Derbela Janubi, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Derbela Sharqi, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Derbela Shumali, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Dubar, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Gamaro, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Gurundani Janobi, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Jorkan, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Mazzani, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Nigor Sharif, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Pnwan, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Shabi, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Shatangi, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Shumali Bandhan, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Tunk, Gwadar, Balochistan",
+        "geopoint": [
+            25.4341,
+            62.35675
+        ]
+    },
+    {
+        "name": "Mouza Washin Door, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Zabad Dun, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Ziarat Machhi Gharbi, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Mouza Ziarat Machhi Sharqi, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Prahin Touk, Gwadar, Balochistan",
+        "geopoint": [
+            25.13132,
+            62.32499
+        ]
+    },
+    {
+        "name": "Shambe Ismail, Gwadar, Balochistan",
+        "geopoint": [
+            25.1749,
+            62.33158
+        ]
+    },
+    {
+        "name": "Goth Maula Bux Bizanjo, Lasbela, Balochistan",
+        "geopoint": [
+            25.87,
+            66.71291
+        ]
+    },
+    {
+        "name": "Goth Qader Buksh Gadoor Lasi, Lasbela, Balochistan",
+        "geopoint": [
+            25.87,
+            66.71291
+        ]
+    },
+    {
+        "name": "Madinatul Hikmat - Hub Chawki Road, Lasbela, Balochistan",
+        "geopoint": [
+            25.07982,
+            66.97728
+        ]
+    },
+    {
+        "name": "Mouza Qalander, Lasbela, Balochistan",
+        "geopoint": [
+            25.87,
+            66.71291
+        ]
+    },
+    {
+        "name": "Mouza Serdna, Lasbela, Balochistan",
+        "geopoint": [
+            25.87,
+            66.71291
+        ]
+    },
+    {
+        "name": "Mouza Tappa, Lasbela, Balochistan",
+        "geopoint": [
+            25.87,
+            66.71291
+        ]
+    },
+    {
+        "name": "Police Line Shopping Centre, Mirpur Khas, Sindh",
+        "geopoint": [
+            25.52546,
+            69.00872
+        ]
+    },
+    {
+        "name": "New Pearl Housing Scheme, Rawalakot, Azad Kashmir",
+        "geopoint": [
+            33.85125,
+            73.75036
+        ]
+    },
+    {
+        "name": "Al-Hamra Hills Agro Farming Scheme, Islamabad, Islamabad Capital Territory",
+        "geopoint": [
+            33.60052,
+            73.16566
+        ]
+    },
+    {
+        "name": "Anza Zephyr Dale Agro Farms, Islamabad, Islamabad Capital Territory",
+        "geopoint": [
+            33.69962,
+            73.03619
+        ]
+    }
+]

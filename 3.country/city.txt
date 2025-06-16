@@ -1,0 +1,230 @@
+Abbottabad, Khyber Pakhtunkhwa
+Abdul Hakim, Punjab
+Ahmadpur East, Punjab
+Ali Masjid, Khyber Pakhtunkhwa
+Alipur, Punjab
+Arifwala, Punjab
+Astore, Northern Areas
+Attock, Punjab
+Awaran, Balochistan
+Badin, Sindh
+Bagh, Azad Kashmir
+Bahawalnagar, Punjab
+Bahawalpur, Punjab
+Balakot, Khyber Pakhtunkhwa
+Bannu, Khyber Pakhtunkhwa
+Barnala(Azad Kashmir), Azad Kashmir
+Batagram, Khyber Pakhtunkhwa
+Batkhela, Khyber Pakhtunkhwa
+Bhakkar, Punjab
+Bhalwal, Punjab
+Bhimber, Azad Kashmir
+Buner, Khyber Pakhtunkhwa
+Burewala, Punjab
+Chaghi, Balochistan
+Chakwal, Punjab
+Charsadda, Khyber Pakhtunkhwa
+Chichawatni, Punjab
+Chilas, Northern Areas
+Chiniot, Punjab
+Chishtian Mandi, Punjab
+Chishtian Sharif, Punjab
+Chitral, Khyber Pakhtunkhwa
+Choa Saidan Shah, Punjab
+Chunian, Punjab
+Dadu, Sindh
+Daharki, Sindh
+Daska, Punjab
+Daur, Sindh
+Depalpur, Punjab
+Dera Ghazi Khan, Punjab
+Dera Ismail Khan, Khyber Pakhtunkhwa
+Dijkot, Punjab
+Dina, Punjab
+Dinga, Punjab
+Dobian, Khyber Pakhtunkhwa
+Duniya Pur, Punjab
+Faisalabad, Punjab
+FATA, Khyber Pakhtunkhwa
+Fateh Jang, Punjab
+Gaarho, Sindh
+Gaddani, Balochistan
+Gadoon, Khyber Pakhtunkhwa
+Galyat, Khyber Pakhtunkhwa
+Gambat, Sindh
+Ghakhar, Punjab
+Ghanche, Northern Areas
+Gharo, Sindh
+Ghizer, Northern Areas
+Ghotki, Sindh
+Gilgit, Northern Areas
+Gojra, Punjab
+Gujar Khan, Punjab
+Gujranwala, Punjab
+Gujrat, Punjab
+Gwadar, Balochistan
+Hafizabad, Punjab
+Hala, Sindh
+Hangu, Khyber Pakhtunkhwa
+Harappa, Punjab
+Haripur, Khyber Pakhtunkhwa
+Haroonabad, Punjab
+Hasan Abdal, Punjab
+Hasilpur, Punjab
+Haveli lakha, Punjab
+Hazro, Punjab
+Hub Chowki, Balochistan
+Hujra Shah Muqeem, Punjab
+Hunza, Northern Areas
+Hyderabad, Sindh
+Islamabad, Islamabad Capital Territory
+Jacobabad, Sindh
+Jahanian, Punjab
+Jalal Pur Jatta, Punjab
+Jampur, Punjab
+Jamshoro, Sindh
+Jandola, Khyber Pakhtunkhwa
+Jatoi, Punjab
+Jauharabad, Punjab
+Jhang, Punjab
+Jhelum, Punjab
+Kabirwala, Punjab
+Kaghan, Khyber Pakhtunkhwa
+Kahror Pakka, Punjab
+Kalat, Balochistan
+Kamalia, Punjab
+Kamoke, Punjab
+Kandiaro, Sindh
+Karachi, Sindh
+Karak, Khyber Pakhtunkhwa
+Kasur, Punjab
+Khairpur, Sindh
+Khanewal, Punjab
+Khanpur, Punjab
+Khaplu, Northern Areas
+Kharian, Punjab
+Khipro, Sindh
+Khushab, Punjab
+Khuzdar, Balochistan
+Kohat, Khyber Pakhtunkhwa
+Kohistan, Khyber Pakhtunkhwa
+Kot Addu, Punjab
+Kotli, Azad Kashmir
+Kotri, Sindh
+Lahore, Punjab
+Laki Marwat, Khyber Pakhtunkhwa
+Lala Musa, Punjab
+Landi Kotal, Khyber Pakhtunkhwa
+Larkana, Sindh
+Lasbela, Balochistan
+Layyah, Punjab
+Liaquatpur, Punjab
+Lodhran, Punjab
+Loralai, Balochistan
+Lower Dir, Khyber Pakhtunkhwa
+Mailsi, Punjab
+Makran, Balochistan
+Malakand, Khyber Pakhtunkhwa
+Malal, Sindh
+Mandi Bahauddin, Punjab
+Mangla, Punjab
+Mansehra, Khyber Pakhtunkhwa
+Mardan, Khyber Pakhtunkhwa
+Matiari, Sindh
+Matli, Sindh
+Mehrabpur, Sindh
+Mian Chunnu, Punjab
+Mianwali, Punjab
+Mingaora, Khyber Pakhtunkhwa
+Miram Shah, Khyber Pakhtunkhwa
+Mirpur, Azad Kashmir
+Mirpur Khas, Sindh
+Mirpur Sakro, Sindh
+Mitha Tiwana, Punjab
+Moro, Sindh
+Multan, Punjab
+Muridike, Punjab
+Murree, Punjab
+Muzaffarabad, Azad Kashmir
+Muzaffargarh, Punjab
+Nankana Sahib, Punjab
+Naran, Khyber Pakhtunkhwa
+Narowal, Punjab
+Nasar Ullah Khan Town, Punjab
+Nasirabad, Balochistan
+Naushahro Feroze, Sindh
+Nawabshah, Sindh
+Neelum, Azad Kashmir
+Nowshera, Khyber Pakhtunkhwa
+Okara, Punjab
+Pakpattan, Punjab
+Pallandri, Azad Kashmir
+Parachinar, Khyber Pakhtunkhwa
+Pasrur, Punjab
+Pattoki, Punjab
+Peshawar, Khyber Pakhtunkhwa
+Pind Dadan Khan, Punjab
+Pindi Bhattian, Punjab
+Pirmahal, Punjab
+Poonch, Azad Kashmir
+Qazi Ahmed, Sindh
+Quetta, Balochistan
+Rahimyar Khan, Punjab
+Raiwind, Punjab
+Rajana, Punjab
+Rajanpur, Punjab
+Ratodero, Sindh
+Ratwal, Punjab
+Rawalakot, Azad Kashmir
+Rawalpindi, Punjab
+Renala Khurd, Punjab
+Rohri, Sindh
+Sadiqabad, Punjab
+Sahiwal, Punjab
+Sakrand, Sindh
+Samundri, Punjab
+Sanghar, Sindh
+Sangla Hill, Punjab
+Sarai Alamgir, Punjab
+Sargodha, Punjab
+Sehwan Sharif, Sindh
+Shabqadar, Khyber Pakhtunkhwa
+Shahdadpur, Sindh
+Shahkot, Punjab
+Shahpur Chakar, Sindh
+Shakargarh, Punjab
+Shangla, Khyber Pakhtunkhwa
+Shehr Sultan, Punjab
+Sheikhüpura, Punjab
+Sher Garh, Punjab
+Shikarpur, Sindh
+Shorkot, Punjab
+Sialkot, Punjab
+Sibi, Balochistan
+Skardu, Northern Areas
+Sudhnoti, Azad Kashmir
+Sujawal, Sindh
+Sukkur, Sindh
+Swabi, Khyber Pakhtunkhwa
+Swat, Khyber Pakhtunkhwa
+Talagang, Punjab
+Tando Adam, Sindh
+Tando Allahyar, Sindh
+Tando Bago, Sindh
+Tando Muhammad Khan, Sindh
+Tank, Khyber Pakhtunkhwa
+Taxila, Punjab
+Tharparkar, Sindh
+Thatta, Sindh
+Toba Tek singh, Punjab
+Torkham, Khyber Pakhtunkhwa
+Turbat, Balochistan
+Umerkot, Sindh
+Upper Dir, Khyber Pakhtunkhwa
+Vehari, Punjab
+Wah, Punjab
+Wana, Khyber Pakhtunkhwa
+Wazirabad, Punjab
+Waziristan, Khyber Pakhtunkhwa
+Yazman, Punjab
+Zhob, Balochistan

@@ -1,0 +1,52 @@
+[
+  { "name": "Chaghi, Balochistan", "geoPoints": [29.3, 64.7] },
+  { "name": "Chishtian Mandi, Punjab", "geoPoints": [29.8, 72.86667] },
+  { "name": "Gaarho, Sindh", "geoPoints": [24.74139, 67.58583] },
+  { "name": "Galyat, Khyber Pakhtunkhwa", "geoPoints": [34.067, 73.383] },
+  { "name": "Hub Chowki, Balochistan", "geoPoints": [25.02468, 66.88666] },
+  {
+    "name": "Jalal Pur Jatta, Punjab",
+    "geoPoints": [32.6469714883238, 74.21231110407957]
+  },
+  {
+    "name": "Khipro, Sindh",
+    "geoPoints": [25.825791927108913, 69.3771546613803]
+  },
+  {
+    "name": "Laki Marwat, Khyber Pakhtunkhwa",
+    "geoPoints": [32.61333, 70.91033]
+  },
+  {
+    "name": "Malal, Sindh",
+    "geoPoints": [33.40595980286125, 72.63456093344057]
+  },
+  {
+    "name": "Matli, Sindh",
+    "geoPoints": [25.044568598849203, 68.65923339143006]
+  },
+  {
+    "name": "Mian Chunnu, Punjab",
+    "geoPoints": [30.439408851632564, 72.35627875718872]
+  },
+  {
+    "name": "Miram Shah, Khyber Pakhtunkhwa",
+    "geoPoints": [33.0027479970268, 70.06963691679461]
+  },
+  {
+    "name": "Muridike, Punjab",
+    "geoPoints": [31.80979609346415, 74.25375189112728]
+  },
+  {
+    "name": "Nasar Ullah Khan Town, Punjab",
+    "geoPoints": [31.434780017916214, 73.13650465527732]
+  },
+  { "name": "Sheikhupura, Punjab", "geoPoints": [31.7131, 73.9788] },
+  {
+    "name": "Sudhnoti, Azad Kashmir",
+    "geoPoints": [33.70630795179136, 73.72425478318827]
+  },
+  {
+    "name": "Tando Bago, Sindh",
+    "geoPoints": [24.788720834029768, 68.96491523085068]
+  }
+]
